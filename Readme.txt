@@ -1,0 +1,1 @@
+Souviens-toi en programmation web, le bug est roi, mais la persévérance est la reine. Avec patience et détermination, tu peux résoudre n'importe quel problème et créer des sites web magnifiques.
